@@ -1,3 +1,1 @@
 # shopping-mall
-
-Hello
